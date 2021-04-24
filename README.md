@@ -10,9 +10,9 @@ Welcome to my repo at NU camp
 
     ** This text will be in bold
 
-'''python
+```python
 print("Welcome to FinTech")
-'''
+```
 
 ---
 
